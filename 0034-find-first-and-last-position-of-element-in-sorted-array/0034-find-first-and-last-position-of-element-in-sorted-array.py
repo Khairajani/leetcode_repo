@@ -1,5 +1,5 @@
 class Solution:
-    def find_occurence(self, nums, target,flag=None):
+    def find_occurence(self, nums, target,flag):
         target_index = -1
 
         start = 0
@@ -12,8 +12,8 @@ class Solution:
                     end = mid-1
                 elif flag=="last":
                     start = mid+1
-                else:
-                    break
+                # else:
+                #     break
             elif target < nums[mid]:
                 end = mid-1
             elif target > nums[mid]:
