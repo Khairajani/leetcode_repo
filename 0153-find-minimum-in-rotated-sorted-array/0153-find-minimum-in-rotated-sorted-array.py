@@ -7,7 +7,7 @@ class Solution:
             mid = start + (end-start)//2
             # print(mid,nums[mid])
             # if smallest element
-            if nums[mid-1]>nums[mid]:
+            if nums[mid-1]>=nums[mid]:
                 res = mid
                 break
             # else decide where is unsorted array
