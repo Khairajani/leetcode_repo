@@ -28,7 +28,7 @@ class Solution:
             
     def canPartition(self, nums: List[int]) -> bool:
         arr_sum = sum(nums)
-        if arr_sum%2!=0:
+        if arr_sum&1==1:
             return False
         else:
             return self.isSubsetSum(len(nums),nums,arr_sum//2)
