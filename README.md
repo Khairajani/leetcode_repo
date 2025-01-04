@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khairajani/leetcode_repo/tree/master/0035-search-insert-position) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khairajani/leetcode_repo/tree/master/1250-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
