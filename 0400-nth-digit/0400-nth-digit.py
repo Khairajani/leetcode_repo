@@ -34,19 +34,18 @@ class Solution:
             low = high+1
             high = ((high+1)*10)-1
 
-        start = low
-        print(start)
-        dl = self.digitCount(start)
+        digit_length = self.digitCount(low)
         digits_till_now = self.getTotalDigits(self.digitCount(low-1))
         new_n = n - digits_till_now
-        num = start + (new_n - 1) // dl
-        print(num)
+
+        # Find the actual number that contains the nth digit
+        num = low + (new_n - 1) // digit_length
         
         # Find the position of the nth digit in the number
-        di = (new_n - 1) % dl
+        digit_index = (new_n - 1) % digit_length
         
         # Extract and return the nth digit
-        return int(str(num)[di])
+        return int(str(num)[digit_index])
 
         """
         digits_till_now = self.getTotalDigits(self.digitCount(low-1))
