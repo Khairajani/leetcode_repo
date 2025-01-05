@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Khairajani/leetcode_repo/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/Khairajani/leetcode_repo/tree/master/0278-first-bad-version) |
+| [0400-nth-digit](https://github.com/Khairajani/leetcode_repo/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Khairajani/leetcode_repo/tree/master/0069-sqrtx) |
+| [0400-nth-digit](https://github.com/Khairajani/leetcode_repo/tree/master/0400-nth-digit) |
 ## Interactive
 |  |
 | ------- |
