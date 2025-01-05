@@ -35,7 +35,7 @@ class Solution:
             high = ((high+1)*10)-1
 
         digit_length = self.digitCount(low)
-        digits_till_now = self.getTotalDigits(self.digitCount(low-1))
+        digits_till_now = self.getTotalDigits(digit_length-1)
         new_n = n - digits_till_now
 
         # Find the actual number that contains the nth digit
