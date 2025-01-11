@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Binary Search
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 ## Sliding Window
 |  |
 | ------- |
