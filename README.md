@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khairajani/leetcode_repo/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0322-coin-change](https://github.com/Khairajani/leetcode_repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Khairajani/leetcode_repo/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Khairajani/leetcode_repo/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Khairajani/leetcode_repo/tree/master/0278-first-bad-version) |
 | [0400-nth-digit](https://github.com/Khairajani/leetcode_repo/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
