@@ -15,7 +15,7 @@ class Solution:
             if arr[low] < arr[mid]:  # Left part is sorted
                 if arr[low] <= target < arr[mid]:
                     high = mid - 1
-                else:
+                else: # if target is mid, it could have been caugth in first if itself
                     low = mid + 1
             elif arr[mid] < arr[low]:  # Right part is sorted
                 if arr[mid] < target <= arr[high]:
