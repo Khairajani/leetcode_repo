@@ -10,7 +10,6 @@ class Solution:
                 break
             elif number_set.get(n)!=None:
                 flag=False
-                break
             else:
                 number_set[n]=1
         return flag
