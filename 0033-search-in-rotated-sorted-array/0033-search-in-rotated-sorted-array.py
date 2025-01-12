@@ -1,4 +1,18 @@
 class Solution:
+    def find_min_index(self,arr):
+        low, high = 0, len(arr) - 1
+
+        while low < high:
+            mid = low + (high - low) // 2
+            if arr[mid] < arr[high]:
+                high = mid
+            elif arr[mid] > arr[high]:
+                low = mid + 1
+            else:
+                high -= 1  # Reduce the range to handle duplicates
+
+        return low  # Index of the minimum element
+
     def findMin(self, nums: List[int]) -> int:
         start = 0
         end = len(nums)-1
@@ -40,7 +54,7 @@ class Solution:
         return target_index
 
     def search(self, nums: List[int], target: int) -> int:
-        min_index = self.findMin(nums)
+        min_index = self.find_min_index(nums)
         print("min_index",min_index)
         x = self.find_occurence(nums, 0,min_index-1, target)
         y = self.find_occurence(nums, min_index, len(nums)-1, target)
