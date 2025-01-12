@@ -1,20 +1,15 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
-        start = 0
-        end = len(nums)-1
-        res = -1
-        while start<=end:
-            mid = start + (end-start)//2
-            # print(mid,nums[mid])
-            # if smallest element
-            if nums[mid-1]>=nums[mid]:
-                res = mid
-                break
-            # else decide where is unsorted array
-            elif nums[mid]<nums[end]:
-                end = mid-1
+        
+        low, high = 0, len(nums) - 1
+
+        while low < high:
+            mid = low + (high - low) // 2
+            if nums[mid] < nums[high]:
+                high = mid
+            elif nums[mid] > nums[high]:
+                low = mid + 1
             else:
-                start = mid+1
-          
-        return nums[res]
-                
+                high -= 1  # Reduce the range to handle duplicates
+
+        return nums[low]  # Index of the minimum element
