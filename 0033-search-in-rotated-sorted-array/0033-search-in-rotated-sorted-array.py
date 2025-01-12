@@ -6,11 +6,13 @@ class Solution:
         while start<=end:
             mid = start + (end-start)//2
             # print(mid,nums[mid])
-            # if smallest element
+            # if smallest element is mid 
+            # (checking if the element just before that is larger in ascending sorted array)
             if nums[mid-1]>=nums[mid]:
                 res = mid
                 break
             # else decide where is unsorted array
+            # (smallest element is where the array is unsorted)
             elif nums[mid]<nums[end]:
                 end = mid-1
             else:
