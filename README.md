@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khairajani/leetcode_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khairajani/leetcode_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
+| [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khairajani/leetcode_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
