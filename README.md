@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Khairajani/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
+| [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
 ## Sliding Window
@@ -97,4 +99,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
+## Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
