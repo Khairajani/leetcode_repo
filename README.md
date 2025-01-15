@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khairajani/leetcode_repo/tree/master/1250-longest-common-subsequence) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
+| [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
 ## Sliding Window
