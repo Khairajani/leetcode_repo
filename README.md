@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Khairajani/leetcode_repo/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Khairajani/leetcode_repo/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Khairajani/leetcode_repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0090-subsets-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khairajani/leetcode_repo/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
@@ -142,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Khairajani/leetcode_repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
