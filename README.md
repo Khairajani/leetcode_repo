@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Khairajani/leetcode_repo/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khairajani/leetcode_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Khairajani/leetcode_repo/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Two Pointers
 |  |
