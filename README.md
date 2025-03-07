@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khairajani/leetcode_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khairajani/leetcode_repo/tree/master/1250-longest-common-subsequence) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khairajani/leetcode_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Khairajani/leetcode_repo/tree/master/0940-fruit-into-baskets) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khairajani/leetcode_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/Khairajani/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Khairajani/leetcode_repo/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
