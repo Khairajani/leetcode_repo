@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Khairajani/leetcode_repo/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0400-nth-digit](https://github.com/Khairajani/leetcode_repo/tree/master/0400-nth-digit) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Khairajani/leetcode_repo/tree/master/0795-k-th-symbol-in-grammar) |
 ## Interactive
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Khairajani/leetcode_repo/tree/master/0795-k-th-symbol-in-grammar) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Khairajani/leetcode_repo/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Matrix
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Khairajani/leetcode_repo/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
