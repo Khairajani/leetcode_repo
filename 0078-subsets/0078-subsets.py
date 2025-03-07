@@ -9,6 +9,6 @@ class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
         self.all_subsets_list = []
         self.solve_all_subsets(nums,[],0)
-        sorted_list = sorted(self.all_subsets_list)
-        return sorted_list
+        # sorted_list = sorted(self.all_subsets_list)
+        return self.all_subsets_list
         
