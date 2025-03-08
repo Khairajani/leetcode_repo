@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0322-coin-change](https://github.com/Khairajani/leetcode_repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khairajani/leetcode_repo/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Khairajani/leetcode_repo/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
