@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
+| [0087-scramble-string](https://github.com/Khairajani/leetcode_repo/tree/master/0087-scramble-string) |
 | [0322-coin-change](https://github.com/Khairajani/leetcode_repo/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Khairajani/leetcode_repo/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Khairajani/leetcode_repo/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Khairajani/leetcode_repo/tree/master/0087-scramble-string) |
 | [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khairajani/leetcode_repo/tree/master/1250-longest-common-subsequence) |
