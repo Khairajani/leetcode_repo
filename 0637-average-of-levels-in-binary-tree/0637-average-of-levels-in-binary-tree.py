@@ -13,15 +13,15 @@ class Solution:
         
         queue = [root]
         while queue:
-            level_list = []
+            sum_of_elements_in_current_level = 0
             nodes_in_current_level = len(queue)
             for i in range(nodes_in_current_level):
                 current_node = queue.pop(0)
-                level_list.append(current_node.val)
+                sum_of_elements_in_current_level+=current_node.val
                 if current_node.left:
                     queue.append(current_node.left)
                 if current_node.right:
                     queue.append(current_node.right)
-            avg = sum(level_list) / len(level_list)
+            avg = sum_of_elements_in_current_level/nodes_in_current_level
             result.append(avg)
         return result
