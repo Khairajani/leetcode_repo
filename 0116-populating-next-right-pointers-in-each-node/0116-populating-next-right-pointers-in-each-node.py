@@ -36,23 +36,23 @@ class Solution:
         # Approach 2: without extra space
         first_element_of_level = root
         while first_element_of_level:
-            # since each element has both left and right, even if one child is None, means it it a leaf node
             current_element = first_element_of_level
-            # for each level            
+
+            # for each node in a current level
             while current_element:
                 print(current_element.val)
-                # step 1: connect their child first
+                # step 1: connect their child first (if exists)
                 # at 1 connect 2-->3,
                 # at 2 connect 4-->5
                 # and at 3 connect 6-->7, and so on...
                 if current_element.left is not None:
                     current_element.left.next = current_element.right
 
-                # step 2: once the childs are connected, we proceed with next element in the same level. 
+                # step 2: Before moving to the next element
+                #       - connect left subtree and right subtree
                 if current_element.next and current_element.right:
-                # before moving to the next element,
-                # connect left subtree and right subtree of current_element's left and current_element's right
                     current_element.right.next = current_element.next.left
+                # proceed with next element in the same level. 
                 current_element = current_element.next
                 
             # finally we move to leftmost element in the next level
