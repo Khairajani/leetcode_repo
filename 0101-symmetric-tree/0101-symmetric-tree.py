@@ -19,11 +19,13 @@ class Solution:
             # if both none
             if left is None and right is None:
                 continue
+            # elif both not none, they should be equal
             elif left and right and left.val == right.val:
                 queue.append(left.left)
                 queue.append(right.right)
                 queue.append(left.right)
                 queue.append(right.left)
+            # else: simply not a symmetry nodes
             else:
                 result = False
                 break
