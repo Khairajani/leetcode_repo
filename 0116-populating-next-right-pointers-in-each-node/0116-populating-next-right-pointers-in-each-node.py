@@ -8,11 +8,14 @@ class Node:
         self.next = next
 """
 
+
 class Solution:
-    def connect(self, root: 'Optional[Node]') -> 'Optional[Node]':
+    def connect(self, root: "Optional[Node]") -> "Optional[Node]":
+
         if not root:
             return root
-        
+        # Approach 1: with plain LOT or BFS using queue and level_list
+        """ 
         queue_ds = [root]
         while queue_ds:
             level_list = []
@@ -27,4 +30,32 @@ class Solution:
             
             for i in range(1,nodes_in_current_level):
                 level_list[i-1].next = level_list[i]
+        return root
+        """
+
+        # Approach 2: without extra space
+        first_element_of_level = root
+        while first_element_of_level:
+            # since each element has both left and right, even if one child is None, means it it a leaf node
+            current_element = first_element_of_level
+            # for each level            
+            while current_element:
+                print(current_element.val)
+                # step 1: connect their child first
+                # at 1 connect 2-->3,
+                # at 2 connect 4-->5
+                # and at 3 connect 6-->7, and so on...
+                if current_element.left is not None:
+                    current_element.left.next = current_element.right
+
+                # step 2: once the childs are connected, we proceed with next element in the same level. 
+                if current_element.next and current_element.right:
+                # before moving to the next element,
+                # connect left subtree and right subtree of current_element's left and current_element's right
+                    current_element.right.next = current_element.next.left
+                current_element = current_element.next
+                
+            # finally we move to leftmost element in the next level
+            first_element_of_level = first_element_of_level.left
+
         return root
