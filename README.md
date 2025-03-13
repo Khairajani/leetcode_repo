@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Khairajani/leetcode_repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/Khairajani/leetcode_repo/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Khairajani/leetcode_repo/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/1035-cousins-in-binary-tree) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Khairajani/leetcode_repo/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Khairajani/leetcode_repo/tree/master/0087-scramble-string) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0961-long-pressed-name](https://github.com/Khairajani/leetcode_repo/tree/master/0961-long-pressed-name) |
 | [1170-shortest-common-supersequence](https://github.com/Khairajani/leetcode_repo/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Khairajani/leetcode_repo/tree/master/1250-longest-common-subsequence) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khairajani/leetcode_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khairajani/leetcode_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
@@ -208,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Khairajani/leetcode_repo/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/1035-cousins-in-binary-tree) |
 ## Linked List
@@ -228,4 +233,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khairajani/leetcode_repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
