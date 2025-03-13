@@ -13,7 +13,4 @@ class Solution:
         if root.left==None and root.right==None and root.val==targetSum:
             return True
         
-        left_bool = self.hasPathSum(root.left,targetSum-root.val)
-        right_bool = self.hasPathSum(root.right,targetSum-root.val)
-        
-        return left_bool or right_bool
+        return self.hasPathSum(root.left,targetSum-root.val) or self.hasPathSum(root.right,targetSum-root.val)
