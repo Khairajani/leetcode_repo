@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Khairajani/leetcode_repo/tree/master/0076-minimum-window-substring) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khairajani/leetcode_repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Khairajani/leetcode_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/Khairajani/leetcode_repo/tree/master/0940-fruit-into-baskets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Khairajani/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Khairajani/leetcode_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khairajani/leetcode_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Khairajani/leetcode_repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Khairajani/leetcode_repo/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0142-linked-list-cycle-ii) |
 ## Stack
 |  |
 | ------- |
