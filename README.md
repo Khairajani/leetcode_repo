@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Khairajani/leetcode_repo/tree/master/0021-merge-two-sorted-lists) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Khairajani/leetcode_repo/tree/master/0795-k-th-symbol-in-grammar) |
 ## Backtracking
 |  |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Khairajani/leetcode_repo/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Khairajani/leetcode_repo/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Khairajani/leetcode_repo/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Khairajani/leetcode_repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
