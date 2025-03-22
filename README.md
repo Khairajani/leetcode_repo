@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Khairajani/leetcode_repo/tree/master/0011-container-with-most-water) |
 | [0141-linked-list-cycle](https://github.com/Khairajani/leetcode_repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Khairajani/leetcode_repo/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Khairajani/leetcode_repo/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Khairajani/leetcode_repo/tree/master/0202-happy-number) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Khairajani/leetcode_repo/tree/master/0148-sort-list) |
 | [2561-number-of-distinct-averages](https://github.com/Khairajani/leetcode_repo/tree/master/2561-number-of-distinct-averages) |
 ## Bit Manipulation
 |  |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Khairajani/leetcode_repo/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/Khairajani/leetcode_repo/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Khairajani/leetcode_repo/tree/master/0148-sort-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Khairajani/leetcode_repo/tree/master/0908-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -262,8 +265,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Khairajani/leetcode_repo/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/Khairajani/leetcode_repo/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Khairajani/leetcode_repo/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Khairajani/leetcode_repo/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
