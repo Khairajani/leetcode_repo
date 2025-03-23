@@ -20,8 +20,7 @@ class Solution:
             curr = temp
 
         # head.next = None
-        head = prev
-        return head
+        return prev
 
     def reverseListRecursive(self, head):
         if head==None or head.next==None:
