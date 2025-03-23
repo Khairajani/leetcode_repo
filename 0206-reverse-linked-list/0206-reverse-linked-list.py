@@ -10,8 +10,8 @@ class Solution:
             return head
 
         # else reverse the elements of linked list
-        prev = head
-        curr = head.next
+        prev = None
+        curr = head
 
         while curr != None:
             temp = curr.next
@@ -19,7 +19,7 @@ class Solution:
             prev = curr
             curr = temp
 
-        head.next = None
+        # head.next = None
         head = prev
         return head
 
@@ -34,6 +34,6 @@ class Solution:
         return new_head
 
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        # return self.reverseListIterative(head)
-        return self.reverseListRecursive(head)
+        return self.reverseListIterative(head)
+        # return self.reverseListRecursive(head)
         
