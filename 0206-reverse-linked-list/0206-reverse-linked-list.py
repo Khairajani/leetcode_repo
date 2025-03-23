@@ -23,6 +23,17 @@ class Solution:
         head = prev
         return head
 
+    def reverseListRecursive(self, head):
+        if head==None or head.next==None:
+            return head
+        
+        node = head.next
+        head.next = None
+        new_head = self.reverseListRecursive(node)
+        node.next = head
+        return new_head
+
     def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        return self.reverseListIterative(head)
+        # return self.reverseListIterative(head)
+        return self.reverseListRecursive(head)
         
