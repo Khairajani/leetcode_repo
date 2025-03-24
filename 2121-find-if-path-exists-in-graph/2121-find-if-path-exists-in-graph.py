@@ -22,11 +22,12 @@ class Solution:
 
     def graph_bfs(self, source):
         result = []
+        visited_nodes = {}
         if not self.adjacency_list:
-            return result
+            return result,visited_nodes
         
         level_queue = [source]
-        visited_nodes = {source: True}
+        visited_nodes[source] = True
 
         while level_queue:
             non_visited_new_level_nodes = []
@@ -41,13 +42,12 @@ class Solution:
                         visited_nodes[neigh] = True  # Mark as visited when adding to queue
             result.extend(non_visited_new_level_nodes)
 
-        return result
+        return result, visited_nodes
 
     def validPath(self, n: int, edges: List[List[int]], source: int, destination: int) -> bool: 
-
         self.adjacency_list = self.create_adjacency_list(edges, True)
-        result = self.graph_bfs(source)
+        result, visited_nodes = self.graph_bfs(source)
         print(result)
-        if destination in result or source==destination:
+        if source==destination or visited_nodes.get(destination) is not None:
             return True
         return False
