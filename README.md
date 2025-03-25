@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Khairajani/leetcode_repo/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Khairajani/leetcode_repo/tree/master/0560-subarray-sum-equals-k) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Khairajani/leetcode_repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0861-flipping-an-image](https://github.com/Khairajani/leetcode_repo/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/Khairajani/leetcode_repo/tree/master/0940-fruit-into-baskets) |
 | [1168-duplicate-zeros](https://github.com/Khairajani/leetcode_repo/tree/master/1168-duplicate-zeros) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Khairajani/leetcode_repo/tree/master/0278-first-bad-version) |
 | [0400-nth-digit](https://github.com/Khairajani/leetcode_repo/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Khairajani/leetcode_repo/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Khairajani/leetcode_repo/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
